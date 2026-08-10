@@ -1,6 +1,6 @@
 **Overview**
 
-This repository contains my completed submission for **Task 1** of the WGU course **D684 – AI Optimization for Computer Scientists**.
+This repository contains my completed submission for **Task 1** of the WGU course **D684: AI Optimization for Computer Scientists**.
 
 The task requires demonstrating measurable improvement to an underperforming machine learning model and justifying each optimization decision with evidence. The implementation is a scripted experiment suite that trains a fixed baseline, applies six distinct optimization strategies, and produces a ranked comparison of all variants under identical evaluation conditions.
 
@@ -92,12 +92,12 @@ Dataset and target column can be overridden through the DATA_CSV and TARGET_COL 
 
 **Repository Contents**
 
--`experiments/run_experiments.py` – Classification optimization experiment suite
+-`experiments/run_experiments.py`: Classification optimization experiment suite
 
--`experiments/run_experiments_regression.py` – Regression optimization experiment suite
+-`experiments/run_experiments_regression.py`: Regression optimization experiment suite
 
--`data/demo_classification.csv` – Classification dataset
+-`data/demo_classification.csv`: Classification dataset
 
--`data/demo_regression.csv` – Regression dataset
+-`data/demo_regression.csv`: Regression dataset
 
--`docs/Report_Template.docx` – Written report deliverable for Task 1
+-`docs/Report_Template.docx`: Written report deliverable for Task 1
