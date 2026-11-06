@@ -1,6 +1,6 @@
 # Baseline vs. Optimized Models
 
-**WGU D684 · AI Optimization for Computer Scientists · Task 1**
+**WGU D682 · AI Optimization for Computer Scientists · Task 2**
 
 Takes a model that isn't good enough, applies six improvement techniques one at a time, and ranks the results. Seed, data split and metrics stay the same for every version, so any change in score comes from the technique itself.
 
@@ -32,6 +32,6 @@ Use your own data with `DATA_CSV` and `TARGET_COL`. Results go to `reports/`.
 
 - `experiments/`: the two experiment scripts
 - `data/`: sample datasets
-- `docs/Report_Template.docx`: written report for Task 1
+- `docs/Report_Template.docx`: written report
 
 **Built with:** Python, scikit-learn, pandas
